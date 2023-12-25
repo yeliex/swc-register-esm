@@ -1,0 +1,21 @@
+{
+  "name": "swc-register-esm",
+  "version": "1.0.0",
+  "description": "swc register supports node esm hook",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swc",
+    "swc-node",
+    "register",
+    "esm"
+  ],
+  "author": "yeliex <yeliex@yeliex.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@swc-node/register": "^1.6.7"
+  }
+}
